@@ -10,6 +10,7 @@ public class Schedules {
     
     String getTeacherName(){return teacherName;}
     String getTopic(){return topic;}
+    //for commit
 }
 
 
